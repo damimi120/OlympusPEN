@@ -1,0 +1,85 @@
+/* 蘇甲魚的地ㄤ */
+
+
+@font-face{
+    font-family: 'codaCaption';
+    src: url('./fonts/CodaCaption-Heavy.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'noto';
+    src: url('./fonts/NotoSerifTC-Black.otf') format('opentype')
+}
+.container{
+
+    width: 1366px;
+    height: 768px;
+    background-color: rgb(255,255,255);
+    margin: auto;
+
+}
+
+.page02{
+
+    width: 1366px;
+    height: 768px;
+    background-color: rgb(255,255,255);
+    letter-spacing: 0.5px;
+    text-align: center;
+    line-height: 30px;
+ 
+}
+ 
+.sideimg{
+ 
+    width: 40%;
+    margin-top: 200px;
+    margin-left: -400px;
+    position: fixed;
+ 
+}
+ 
+aside{
+ 
+    width: 500px;
+ 
+}
+ 
+ 
+.t01{
+    letter-spacing: 2px;
+    padding-top: 200px;
+    margin-top: 0px;
+    margin-left: 450px;
+    text-align: left;
+    font-family: noto;
+ 
+}
+ 
+.p01{
+ 
+    margin-left: 450px;
+    width: 1200px;
+    text-align: left;
+    margin-top: 40px;
+    letter-spacing: 2px;
+ 
+}
+ 
+.t02{
+    letter-spacing: 2px;
+    margin-top: 100px;
+    margin-left: 450px;
+    text-align: left;
+    font-family: noto;
+ 
+}
+ 
+.p02{
+ 
+    text-align: left;
+    margin-left: 450px;
+    margin-top: 40px;
+    letter-spacing: 2px;
+ 
+}
